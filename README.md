@@ -10,4 +10,4 @@ chat the bot by first typing: join depend-shop
 
 # For Developers
 
-Clone repo, run mpm install and start your server
+Clone repo, run npm install and start your server
